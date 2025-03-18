@@ -1,0 +1,10 @@
+archive_project_summary.txt
+.Xil/
+FDP.cache/
+FDP.hw/
+FDP.ip_user_files/
+FDP.runs/
+FDP.sim/
+*.jou
+*.log
+*.str
