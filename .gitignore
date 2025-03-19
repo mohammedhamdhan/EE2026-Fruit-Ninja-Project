@@ -8,3 +8,4 @@ FDP.sim/
 *.jou
 *.log
 *.str
+*.xdc
